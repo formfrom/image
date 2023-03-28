@@ -1,0 +1,2 @@
+# image
+hexo blog image
